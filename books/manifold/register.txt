@@ -1,0 +1,16 @@
+alice
+origin
+classificationUsingHDC
+wordGeometryDocumentClassification 
+fractalPatternsInTexts
+CNN-BiLSTM model 
+ hybrid recognition system
+categoryTheoryinML
+BayesianNN
+categorizingAncientDocuments
+A Study of Associative Memories with Hopfield neural network Model for handwritten character recognition
+ClassProbabilityEstimation
+Cursive Overlapped Character Segmentation-
+A*pathForLineSegmentation
+combiningMultipleClassifiers
+A_New_Character_Segmentation_Approach_for_Off-Line

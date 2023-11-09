@@ -1,0 +1,21 @@
+brainParallelCausalInferemce
+dominguez-olmedo23a
+EMS85367
+2011.01797
+categoryTheoryinML
+2020_Ikegwu_Traguer_McMullin_Brunner_05FA
+ClassProbabilityEstimation
+grangerCausalityReview
+combiningMultipleClassifiers
+categorizingAncientDocuments
+Cursive Overlapped Character Segmentation-
+CNN-BiLSTM model 
+ hybrid recognition system
+A_New_Character_Segmentation_Approach_for_Off-Line
+alice
+BayesianNN
+A Study of Associative Memories with Hopfield neural network Model for handwritten character recognition
+A*pathForLineSegmentation
+origin
+wordGeometryDocumentClassification 
+fractalPatternsInTexts

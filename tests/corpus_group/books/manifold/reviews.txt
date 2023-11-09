@@ -1,0 +1,9 @@
+2023-10-26 15:10:15.251299,alice,31,armando,wonderful book
+2023-10-26 15:10:45.695192,alice,31,armando,we need to go to the rabbit hole and explore our world
+2023-10-26 15:11:51.818170,alice,34,armando,we need more books with pencil drawing like this one
+2023-10-26 15:12:24.210110,alice,60,armando,are we all running a caucus race?,1
+2023-10-26 15:13:13.890350,BayesianNN,0,armando,defintely I need to study more about bayesian networks
+2023-10-26 15:13:54.586601,BayesianNN,4,armando,it would be nice to be able to zoom the above image
+2023-10-26 15:14:44.969740,BayesianNN,13,amaris,we need to learn faster to really compete with the best in the world
+2023-10-26 15:16:26.172653,categoryTheoryinML,0,amaris,the ideas of category theory are quite general and allow us to compare object that in appearance are different but in reality are basically another perpective of something more fundamental
+2023-11-06 09:20:27.596420,Cursive Overlapped Character Segmentation-,0,,test: cursive overlapped character
